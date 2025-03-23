@@ -1,0 +1,19 @@
+<html>
+
+<head>
+    <title>tables in html</title>
+</head>
+
+<body><table>
+    <tr>
+        <th>Name</th>
+        <th> class</th>
+    </tr>
+    <tr>
+        <td>Samridhi</td>
+        <td>9</td>
+    </tr>
+    </table>
+</body>
+
+</html>
